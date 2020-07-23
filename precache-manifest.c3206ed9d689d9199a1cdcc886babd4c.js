@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e90b287bb68a813a63eb1933dafb2f3",
+    "revision": "736d343b3b6c6d43f1ef233181d28e20",
     "url": "/understanding-akamai-deploy/index.html"
   },
   {
