@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/understanding-akamai-deploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/understanding-akamai-deploy/static/js/main.e9d3ada9.chunk.js",
-    "main.js.map": "/understanding-akamai-deploy/static/js/main.e9d3ada9.chunk.js.map",
+    "main.js": "/understanding-akamai-deploy/static/js/main.3508f7a3.chunk.js",
+    "main.js.map": "/understanding-akamai-deploy/static/js/main.3508f7a3.chunk.js.map",
     "runtime-main.js": "/understanding-akamai-deploy/static/js/runtime-main.bf4db3df.js",
     "runtime-main.js.map": "/understanding-akamai-deploy/static/js/runtime-main.bf4db3df.js.map",
     "static/js/2.ea353f56.chunk.js": "/understanding-akamai-deploy/static/js/2.ea353f56.chunk.js",
     "static/js/2.ea353f56.chunk.js.map": "/understanding-akamai-deploy/static/js/2.ea353f56.chunk.js.map",
     "index.html": "/understanding-akamai-deploy/index.html",
-    "precache-manifest.da7cf2f0b3d1c6ecf3fecb9d8f0e4fcb.js": "/understanding-akamai-deploy/precache-manifest.da7cf2f0b3d1c6ecf3fecb9d8f0e4fcb.js",
+    "precache-manifest.00f29c4d082694b3aea0ad7aae6e1dfc.js": "/understanding-akamai-deploy/precache-manifest.00f29c4d082694b3aea0ad7aae6e1dfc.js",
     "service-worker.js": "/understanding-akamai-deploy/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/understanding-akamai-deploy/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.ea353f56.chunk.js.LICENSE.txt": "/understanding-akamai-deploy/static/js/2.ea353f56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf4db3df.js",
     "static/js/2.ea353f56.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e9d3ada9.chunk.js"
+    "static/js/main.3508f7a3.chunk.js"
   ]
 }

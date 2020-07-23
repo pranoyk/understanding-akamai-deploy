@@ -1,11 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f5bfbc5cacdf9c53c5b1d5fc7840d02",
+    "revision": "a25e9ad7e5f64a9c455c6c1f5cd012c9",
     "url": "/understanding-akamai-deploy/index.html"
-  },
-  {
-    "revision": "e8d39558bc2f29891119",
-    "url": "/understanding-akamai-deploy/static/css/main.5f361e03.chunk.css"
   },
   {
     "revision": "a94ca5e63a4b95f54a52",
@@ -16,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/understanding-akamai-deploy/static/js/2.ea353f56.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8d39558bc2f29891119",
-    "url": "/understanding-akamai-deploy/static/js/main.e9d3ada9.chunk.js"
+    "revision": "acec99238b0ec07db3c1",
+    "url": "/understanding-akamai-deploy/static/js/main.3508f7a3.chunk.js"
   },
   {
     "revision": "fdaf59b344ec832d1363",
