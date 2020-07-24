@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/understanding-akamai-deploy/precache-manifest.00f29c4d082694b3aea0ad7aae6e1dfc.js"
+  "/understanding-akamai-deploy/precache-manifest.546ecb9162fac8154270fd50b0f50e30.js"
 );
 
 self.addEventListener('message', (event) => {
